@@ -1,0 +1,5 @@
+Ejecutar el comando
+    http-server . -p 8000
+se activa un server en el puerto 8000
+luego fijarse en localhost:8000/index.html
+Disfruta!
